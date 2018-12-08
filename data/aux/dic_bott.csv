@@ -1,0 +1,23 @@
+grupo,grupo_lab,label,vars,vars_id
+Acciones Bélicas,acciones_belicas,acciones bélicas,Casos,casos
+Acciones Bélicas,acciones_belicas,acciones bélicas,Víctimas,victimas
+Asesinatos selectivos,asesinatos_selectivos,asesinatos selectivos,Casos,casos
+Asesinatos selectivos,asesinatos_selectivos,asesinatos selectivos,Víctimas,victimas
+Ataques a poblaciones,ataques_poblaciones,ataques a poblaciones,Casos,casos
+Ataques a poblaciones,ataques_poblaciones,ataques a poblaciones,Víctimas,victimas
+Atentados terroristas,atentados_terroristas,atentados a terroristas,Casos,casos
+Atentados terroristas,atentados_terroristas,atentados a terroristas,Víctimas,victimas
+Daños a bienes o civiles,danos_bienes,daños a bienes o civiles,Casos,casos
+Daños a bienes o civiles,danos_bienes,daños a bienes o civiles,Víctimas,victimas
+Desaparición forzada,desaparicion,desaparición forzada,Casos,casos
+Desaparición forzada,desaparicion,desaparición forzada,Víctimas,victimas
+MAP - MUSE,map_muse,minas antipersonal (MAP) y municiones sin explosionar (MUSE),Casos,casos
+MAP - MUSE,map_muse,minas antipersonal (MAP) y municiones sin explosionar (MUSE),Víctimas,victimas
+Masacres,masacres,masacres,Casos,casos
+Masacres,masacres,masacres,Víctimas,victimas
+Secuestro,secuestro,secuestro,Casos,casos
+Secuestro,secuestro,secuestro,Víctimas,victimas
+Violencia sexual,violencia_sexual,violencia sexual,Casos,casos
+Violencia sexual,violencia_sexual,violencia sexual,Víctimas,victimas
+Reclutamiento,reclutamiento,reclutamiento,Casos,casos
+Reclutamiento,reclutamiento,reclutamiento,Víctimas,victimas

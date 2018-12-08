@@ -1,0 +1,131 @@
+id,ctypes,label,ind_sel,base
+IdCaso,Num,id caso,NO,Casos Acciones Bélicas.xlsx
+IdCasoRelacionado,Cat,Id caso relacionado,NO,Casos Acciones Bélicas.xlsx
+DIAH,Num,Día,NO,Casos Acciones Bélicas.xlsx
+MESH,Num,Mes,NO,Casos Acciones Bélicas.xlsx
+ANNOH,Num,Año,NO,Casos Acciones Bélicas.xlsx
+REGION,Cat,Región,SI,Casos Acciones Bélicas.xlsx
+DEPTO_CASO,Cat,Departamento,SI,Casos Acciones Bélicas.xlsx
+MUNINICIO_CASO,Cat,Municipio,SI,Casos Acciones Bélicas.xlsx
+Modalidad,Cat,Modalidad,SI,Casos Acciones Bélicas.xlsx
+Iniciativa,Cat,Iniciativa,SI,Casos Acciones Bélicas.xlsx
+TipoUnidadAtacada,Cat,Tipo de unidad atacada,SI,Casos Acciones Bélicas.xlsx
+PRESUNTO_REPONSABLE,Cat,Presunto responsable,SI,Casos Aseinatos Selectivos.xlsx
+DESCRIPCION_PRESUNTO_RESPONSABLE,Cat,Descripción presunto responsable,NO,Casos Aseinatos Selectivos.xlsx
+PRESUNTO_REPONSABLE2,Cat,Presunto responsable 2,SI,NA
+DESCRIPCION_PRESUNTO_RESPONSABLE2,Cat,Descripcíon presunto responsable 2,NO,Casos Ataques a Poblaciones.xlsx
+PRESUNTO_REPONSABLE3,Cat,Presunto responsable 3,SI,NA
+DESCRIPCION_PRESUNTO_RESPONSABLE3,Cat,DESCRIPCION_PRESUNTO_RESPONSABLE3,NO,NA
+Capturas,Num,Capturas,SI,Casos Acciones Bélicas.xlsx
+GrupoPertenecenLosCapturados,Cat,Grupo al que pertenecen los capturados,SI,Casos Acciones Bélicas.xlsx
+LesionadosCiviles,Num,Civiles lesionados,SI,Casos Acciones Bélicas.xlsx
+LesionadosCombatientes,Num,Combatientes lesionados,SI,Casos Acciones Bélicas.xlsx
+TotalMilitares,Num,Total militares,SI,Casos Acciones Bélicas.xlsx
+TotalPolicias,Num,Total policias,SI,Casos Acciones Bélicas.xlsx
+TotalOtrasFuerzasArmadasEstatales,Num,Total otras fuerzas armadas estatales,SI,Casos Acciones Bélicas.xlsx
+TotalAgentesEstadoSinInformacion,Num,"Total agentes de Estado, sin información",SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesFuerzasArmadasDelEstado,Num,Total combatientes fuerzas armadas del estado,SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesDeLasGuerrillas,Num,Total combatientes de las guerrillas,SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesDeLosParamilitares,Num,Total combatientes de los paramilitares,SI,Casos Acciones Bélicas.xlsx
+TotalMuertosGrupoPosdesmovilizacion,Num,"Total muertos, grupo posdesmovilizacion",SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesSinInformacion,Num,"Total combatientes, sin información",SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesOtrosGruposArmadosOrganizados,Num,"Total combatientes, otros grupos armados organizados",SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesGruposArmadosOrganizados,Num,"Total combatientes, grupos armados organizados",SI,Casos Acciones Bélicas.xlsx
+TotalCombatientesMuertos,Num,Total combatientes muertos,SI,Casos Acciones Bélicas.xlsx
+TotalPersonasSinInformacion,Num,"Total personas, sin Información",SI,Casos Acciones Bélicas.xlsx
+TotalCivilesMuertos,Num,Total civiles muertos,SI,Casos Acciones Bélicas.xlsx
+TotalCivilesCombatientesMuertos,Num,Total civiles combatientes muertos,SI,Casos Acciones Bélicas.xlsx
+NumeroVictimasCaso,Num,Número de Víctimas Caso,SI,Casos Acciones Bélicas.xlsx
+VentajaMilitar,Cat,Ventaja militar,SI,Casos Acciones Bélicas.xlsx
+Estado,Cat,Estado,NO,Casos Acciones Bélicas.xlsx
+Descripción_de_la_Modalidad,Cat,Descripción_de_la_Modalidad,NO,NA
+TipoArmas,Cat,Tipo de armas,SI,Casos Aseinatos Selectivos.xlsx
+AbandonoDespojoForzadoTierras,Num,AbandonoDespojoForzadoTierras,SI,NA
+AmenazaIntimidacion,Num,Amenaza - Intimidación,SI,Casos Aseinatos Selectivos.xlsx
+AtaqueContraMisionMedica,Num,AtaqueContraMisionMedica,SI,NA
+ConfinamientoRestriccionMovilidad,Num,ConfinamientoRestriccionMovilidad,SI,NA
+DesplazamientoForzado,Num,DesplazamientoForzado,SI,NA
+Extorsion,Num,Extorsion,SI,NA
+Pillaje,Num,Pillaje,SI,NA
+Tortura,Num,Tortura,SI,Casos Aseinatos Selectivos.xlsx
+ViolenciaBasadaGenero,___,Violencia Basada Genero,NA,NA
+OtroHechoSimultaneo,Cat,Otro Hecho Simultaneo,NO,Casos Aseinatos Selectivos.xlsx
+GrafitisLetreros,Num,GrafitisLetreros,SI,NA
+VinculosFamiliares,Num,Vinculos familiares,SI,NA
+MujeresEmbarazadas,Num,Mujeres Embarazadas,SI,NA
+ArmasGrupoArmado,Cat,ArmasGrupoArmado,SI,NA
+EscudoHumano,Num,EscudoHumano,SI,NA
+BienesCultLugaresCulto,Num,Bienes cultutales/lugares de culto,SI,Casos Daños a Bienes Civiles.xlsx
+EntidadBancaria,Num,Entidad bancaria,SI,Casos Daños a Bienes Civiles.xlsx
+EntidadesPublicas,Num,Entidades públicas,SI,Casos Daños a Bienes Civiles.xlsx
+EstablecimientoComercial,Num,Establecimiento comercial,SI,Casos Daños a Bienes Civiles.xlsx
+InfraComunicaciones,Num,InfraComunicaciones,SI,Casos Daños a Bienes Civiles.xlsx
+Infraeducativa,Num,Infra - educativa,SI,Casos Daños a Bienes Civiles.xlsx
+InfraMedica,Num,Infra - Medica,SI,Casos Daños a Bienes Civiles.xlsx
+InfraElectrica,Num,Infra - Electrica,SI,Casos Daños a Bienes Civiles.xlsx
+InfraEmpresarial,Num,Infra - Empresarial,SI,Casos Daños a Bienes Civiles.xlsx
+InfraEnergetica,Num,Infra - Energetica,SI,Casos Daños a Bienes Civiles.xlsx
+InfraVial,Num,InfraVial,SI,Casos Daños a Bienes Civiles.xlsx
+MaterialElectoral,Num,Material electoral,SI,Casos Daños a Bienes Civiles.xlsx
+MediosTransporte,Num,Medios de transporte,SI,Casos Daños a Bienes Civiles.xlsx
+MercanciasObjetosMateriales,Num,Mercancias objetos materiales,SI,Casos Daños a Bienes Civiles.xlsx
+PropiedadRural,Num,Propiedad rural,SI,Casos Daños a Bienes Civiles.xlsx
+SedeGremioSindicato,Num,Sede gremio sindicato,SI,Casos Daños a Bienes Civiles.xlsx
+SedePartidoPolitico,Num,Sede partido político,SI,Casos Daños a Bienes Civiles.xlsx
+ViviendaUrbana,Num,Vivienda urbana,SI,Casos Daños a Bienes Civiles.xlsx
+OtroTipoBien,Num,Otro tipo de bien,SI,Casos Daños a Bienes Civiles.xlsx
+DescripcionTipoBien,Cat,Descripción tipo de bien,SI,Casos Daños a Bienes Civiles.xlsx
+NombreTipoEvento,Cat,NombreTipoEvento,NA,NA
+PRESUNTO_REPONSABLE1,Cat,Presunto responsable,SI,Casos Violencia Sexual.xlsx
+DESCRIPCION_PRESUNTO_RESPONSABLE1,Cat,Descripción del presunto responsable,NO,Casos Violencia Sexual.xlsx
+T_CICOLE,Num,T_CICOLE,NA,NA
+FormaVinculacion,Cat,Forma de vinculación,SI,Casos RUNNA.xlsx
+TipoVinculacion,Cat,Tipo de vinculación,SI,Casos RUNNA.xlsx
+Modalidad_de_Secuestro,Cat,Modalidad de secuestro,SI,Casos Secuestro.xlsx
+Tipo_Secuestro,Cat,Tipo de secuestro,SI,Casos Secuestro.xlsx
+Finalidad_del_Secuestro,Cat,Finalidad del secuestro,SI,Casos Secuestro.xlsx
+Exigencia_para_la_Liberación,Cat,Exigencia para la Liberación,SI,Casos Secuestro.xlsx
+Total_Civiles,Num,Total Civiles,SI,NA
+Id,Num,id,NO,Casos MAP MUSE.xlsx
+COD_DANE_MUN,Num,COD_DANE_MUN,NA,NA
+Sexo,Cat,Sexo,SI,Casos MAP MUSE.xlsx
+Etnia,Cat,Etnia,SI,Casos MAP MUSE.xlsx
+OcupacionVictima,Cat,Ocupacion Víctima,SI,Casos MAP MUSE.xlsx
+CalidadVictima,Cat,Calidad víctima,SI,Casos MAP MUSE.xlsx
+TipoPoblacionVulnerable,Cat,Tipo de población vulnerable,SI,Casos MAP MUSE.xlsx
+Grupo,Cat,Grupo Armado,SI,Casos MAP MUSE.xlsx
+DESCRIPCION_GRUPO,Cat,Descripción grupo,SI,Casos MAP MUSE.xlsx
+X__1,___,X__1,NA,NA
+MilitantePolitico,Cat,Militiante politico,SI,NA
+SituacionActualVictima,Cat,Situacion actual de la víctima,SI,Victimas Desaparición Forzada.xlsx
+FuenteInformacionDesaparicion,Cat,Fuente de información de la desaparicion,SI,Victimas Desaparición Forzada.xlsx
+AfectacionHeridos,Cat,Afectación heridos,SI,Victimas MAP MUSE.xlsx
+CircunstanciaMuerteVictima,Cat,Circunstancia muerte de la víctima,SI,NA
+ActividadDesarrolladaMomentoAfectacion,Cat,Actividad desarrollada al momento de la afectacion,SI,Victimas MAP MUSE.xlsx
+CALETERO,Num,CALETERO,SI,NA
+CAMP,Num,CAMP,SI,NA
+COCI,Num,COCI,SI,NA
+COMAN,Num,COMAN,SI,NA
+COMBA,Num,COMBA,SI,NA
+CONTA,Num,CONTA,SI,NA
+ENTRE,Num,ENTRE,SI,NA
+ESCO,Num,ESCO,SI,NA
+OGAOEXTOR,Num,OGAOEXTOR,SI,NA
+FAB_ARM,Num,FAB_ARM,SI,NA
+MINAS,Num,MINAS,SI,NA
+GUAR,Num,GUAR,SI,NA
+INFORM,Num,INFORM,SI,NA
+PATRU,Num,PATRU,SI,NA
+RADIO,Num,RADIO,SI,NA
+RASP,Num,RASP,SI,NA
+SER_SALUD,Num,SER_SALUD,SI,NA
+SICA,Num,SICA,SI,NA
+TRA_ORG,Num,TRA_ORG,SI,NA
+TRA_DRO,Num,TRA_DRO,SI,NA
+TRA_ARMAS,Num,TRA_ARMAS,SI,NA
+SIN_OFI,Num,SIN_OFI,SI,NA
+OTRO_OFI,Cat,OTRO_OFI,SI,Victimas RUNNA.xlsx
+Circustancia_Muerte_en_Cautiverio,Cat,Circustacias de la muerte en cautiverio,SI,Victimas Secuestro.xlsx
+Tipo_Liberación,Cat,Tipo de liberación,SI,Victimas Secuestro.xlsx
+Días_Cautiverio,Num,Días en cautiverio,NO,Victimas Secuestro.xlsx
+No_Veces_secuestrado,Num,Número de veces secuestrado,NO,Victimas Secuestro.xlsx

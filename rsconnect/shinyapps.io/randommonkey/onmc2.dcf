@@ -1,0 +1,13 @@
+name: onmc2
+title: onmc2
+username:
+account: randommonkey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 392893
+bundleId: 1621013
+url: https://randommonkey.shinyapps.io/onmc2/
+when: 1538591048.67405
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: prep.R|viz.R

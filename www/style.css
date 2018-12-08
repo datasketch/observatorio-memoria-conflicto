@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+.shiny-output-error {
+  visibility: hidden; 
+}
+
+*:before,
+*:after {
+  box-sixing: border-box;
+  outline: none;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  color:#323232;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+.nav-tabs > li  {
+	width:25%; 
+	align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.container-fluid {
+  padding-right: 0px !important; 
+  padding-left: 0px !important; 
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 100%;
+  height: 100%;
+}
+
+.contCaf {
+  display: grid;
+  grid-template-columns: 60% 40%;/*repeat(2, 1fr);*/
+  align-items: flex-start;
+}
+
+.contBotones {
+  display: grid;
+  grid-template-columns: repeat(4, 70px);
+  grid-gap: 20px;
+  position: relative;
+  width: max-content;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+
+.butTemas {
+  width: 79px;
+  height: 70px;
+  font-size: 11px;
+  text-align: left;
+  margin: auto !important;
+  padding: auto;
+  background-color: transparent;
+  border: 2px solid #662d91;
+  border-radius: 7px;
+  color: #323232;
+}
+
+
+.contMenu{
+  background-color: transparent;
+}
+
+.contMenu .butTemas.active,
+.contMenu .butTemas.activeTab,
+.contMenu .butTemas.activeCron,
+.contMenu:hover .butTemas {
+  background-color: #662d91;
+  border-color: #662d91;
+  color: orange;
+}
+
+.dropdownMenuFicha {
+  border: 1px solid #662d91;
+  background: #662d91;
+  display: none;
+  position: absolute;
+  width: 50%;
+  z-index: 1;
+}
+
+.dropdownMenuContent{
+  margin: 25px 15px;
+}
+
+.dropdownMenuContent a:hover {
+  color: orange;
+}
+
+
+.dropdown-content {
+  display: inline-flex;
+  flex-direction: column;
+}
+.dropdownMenuContent a {
+  color: #fff;
+  font-size: 11px;
+  cursor: pointer;
+  display: block;
+  line-height: 15px;
+  text-decoration: none;
+}
+
+
+.contMenu:hover .dropdownMenuFicha {
+  display: block;
+  margin-top: -5px;
+}
+
+
+.conBoton {
+  display: inline-flex;
+  margin-left: 5%;
+}
+
+#tiempoDat {
+  margin-left: 5%;
+}
+
+#downBase {
+  display: inline-flex;
+  margin-left: 7%;
+}
+
+#descargaXlsx {
+  margin-left: 3%;
+}
+
+
+.irs-bar {
+  border-top: 1px solid #662d91 !important;
+  border-bottom: 1px solid #662d91 !important;
+  background: #662d91 !important;
+}
+
+
+.irs-from, .irs-to, .irs-single {
+    color: #323232 !important;
+    background: transparent !important;
+}
+
+.irs-grid-text {
+    color:  #323232 !important;
+}
+
+
+.irs-slider {
+    width: 19px !important;
+    height: 19px !important;
+    border: 1px solid #662d91 !important;
+    background: #CCC !important;
+}
+
+a .glyphicon{
+    color: #662d91 !important;
+}
+
+
+#tabPrev {
+  margin-top: 0%;
+  margin-left: 3%;
+}
+
+#botonesTabla {
+  margin-left: 5%;
+}
+
+#descTab {
+  margin-left: 9%;
+  margin-top: 10%;
+}
+
+.dataTables_length {
+  display: none !important;
+}
+
+/*.dataTables_filter {
+ margin-top: 1% !important;  
+}*/
+
+.contCron {
+  display: inline-flex;
+}
+
+.lineGrup{
+  display: flex;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+
+#anioGrupo .selectize-control {
+    width: max-content !important;
+}
+
+#anioGrupo .selectize-input { 
+  margin-right: 22px !important;
+}
+
+#selDeptoCron .selectize-control {
+    width: max-content !important;
+}
+
+
+#selDeptoCron .selectize-input {
+    margin-right: 22px !important;
+}
+
+
+#selDeptoCron {
+  margin-left: 5%;
+}
+
+#anioGrupo {
+  margin-left: 2%;
+}
+
+#vizClasif {
+  width: 70% !important;
+  height: 450px !important;
+}
+
+.conSanky {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -1% !important;
+}
+
+#selGrupo {
+  margin-left: 3%;
+  text-align: center;
+}
+
+.modal-body {
+    height: auto;
+}
+
+.modal-backdrop.in {
+   filter: alpha(opacity=90);
+   opacity: .9;
+}
+.modal-backdrop {
+   background-color: #fff;
+}
+
+.form-control-feedback {
+    z-index: 0;
+}
+
+#selLugar, #selCron {
+  margin-left: 5%;
+}
+
+.allCron {
+  margin-left: 2%;
+}

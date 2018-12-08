@@ -1,0 +1,34 @@
+name,code,hc-a2,labelrank,hasc,postal-code,country,woe-name,latitude,woe-label,type
+Amazonas,AM,AM,5,CO.AM,AM,Colombia,Amazonas,-1.26032,"Amazonas, CO, Colombia",Comisaría
+Antioquia,AN,AN,5,CO.AN,AN,Colombia,Antioquia,6.70366,"Antioquia, CO, Colombia",Departamento
+Arauca,AR,AR,7,CO.AR,AR,Colombia,Arauca,6.64307,"Arauca, CO, Colombia",Intendencia
+"Archipiélago de san andrés, providencia y santa catalina",SA,SA,5,CO.SA,SA,Colombia,San Andrés y Providencia,12.5429,"San Andres y Providencia, CO, Colombia",Departamento
+Atlántico,AT,AT,5,CO.AT,AT,Colombia,Atlántico,10.6712,"Atlantico, CO, Colombia",Departamento
+"Bogotá, d.c.",BO,BO,9,CO.CU,NA,Colombia,Bogota,4.08564,"Distrito Especial, CO, Colombia",Distrito Federal
+Bolívar,BL,BL,5,CO.BL,BL,Colombia,Bolívar,8.57823,"Bolivar, CO, Colombia",Departamento
+Boyacá,BY,BY,5,CO.BY,BY,Colombia,Boyacá,5.68515,"Boyaca, CO, Colombia",Departamento
+Caldas,CL,CL,5,CO.CL,CL,Colombia,Caldas,5.29037,"Caldas, CO, Colombia",Departamento
+Caquetá,CQ,CQ,5,CO.CQ,CQ,Colombia,Caquetá,0.615494,"Caqueta, CO, Colombia",Intendencia
+Casanare,CS,CS,5,CO.CS,CS,Colombia,Casanare,5.46249,"Casanare, CO, Colombia",Intendencia
+Cauca,CA,CA,5,CO.CA,CA,Colombia,Cauca,2.61609,"Cauca, CO, Colombia",Departamento
+Cesar,CE,CE,5,CO.CE,CE,Colombia,Cesar,9.84893,"Cesar, CO, Colombia",Departamento
+Chocó,CH,CH,5,CO.CH,CH,Colombia,Chocó,5.38283,"Choco, CO, Colombia",Departamento
+Córdoba,CO,CO,5,CO.CO,CO,Colombia,Córdoba,8.43894,"Cordoba, CO, Colombia",Departamento
+Cundinamarca,CU,CU,5,CO.CU,CU,Colombia,Cundinamarca,5.11121,"Cundinamarca, CO, Colombia",Departamento
+Guainía,GN,GN,5,CO.GN,GN,Colombia,Guainía,2.70535,"Guainia, CO, Colombia",Comisaría
+Guaviare,GV,GV,6,CO.GV,GV,Colombia,Guaviare,1.85144,"Guavaire, CO, Colombia",Comisaría
+Huila,HU,HU,5,CO.HU,HU,Colombia,Huila,2.65469,"Huila, CO, Colombia",Departamento
+La guajira,LG,LG,5,CO.LG,LG,Colombia,La Guajira,11.4245,"La Guajira, CO, Colombia",Departamento
+Magdalena,MA,MA,5,CO.MA,MA,Colombia,Magdalena,10.3731,"Magdalena, CO, Colombia",Departamento
+Meta,ME,ME,5,CO.ME,ME,Colombia,Meta,3.5302,"Meta, CO, Colombia",Departamento
+Nariño,NA,NA,5,CO.NA,NA,Colombia,Nariño,1.60168,"Narino, CO, Colombia",Departamento
+Norte de santander,NS,NS,5,CO.NS,NS,Colombia,Norte de Santander,8086,"Norte de Santander, CO, Colombia",Departamento
+Putumayo,PU,PU,5,CO.PU,PU,Colombia,Putumayo,0.420217,"Putumayo, CO, Colombia",Intendencia
+Quindio,QD,QD,NA,NA,NA,NA,NA,NA,NA,NA
+Risaralda,RI,RI,5,CO.RI,RI,Colombia,Risaralda,4.82682,"Risaralda, CO, Colombia",Departamento
+Santander,ST,ST,5,CO.ST,ST,Colombia,Santander,6.85402,"Santander, CO, Colombia",Departamento
+Sucre,SU,SU,5,CO.SU,SU,Colombia,Sucre,9.01236,"Sucre, CO, Colombia",Departamento
+Tolima,TO,TO,5,CO.TO,TO,Colombia,Tolima,3.93749,"Tolima, CO, Colombia",Departamento
+Valle del cauca,VC,VC,5,CO.VC,VC,Colombia,Valle del Cauca,3.58331,"Valle del Cauca, CO, Colombia",Departamento
+Vaupés,VP,VP,5,CO.VP,VP,Colombia,Vaupés,0.790971,"Vaupes, CO, Colombia",Comisaría
+Vichada,VD,VD,5,CO.VD,VD,Colombia,Vichada,4.89224,"Vichada, CO, Colombia",Comisaría
